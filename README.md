@@ -1,3 +1,13 @@
+A COPY IN GITHUB: NOT YET UPLOADED...
+### THIS IS A TYPESCRIPT VERSION
+
+*to activate the json-server: 
+## json-server --watch db.json -p=5000
+(relevant DB is located in the App.tsx file (on the buttom))
+
+*to activate the react-typescript: 
+## 1. cd my-app  2. npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
